@@ -1,0 +1,23 @@
+[0.867s] Invoking command in '/home/jagadeesh/turtlebot_stop': PYTHONPATH=/home/jagadeesh/turtlebot_stop/build/turtlebot_stop/prefix_override:/home/jagadeesh/turtlebot_stop/install/turtlebot_stop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/turtlebot_stop build --build-base /home/jagadeesh/turtlebot_stop/build/turtlebot_stop/build install --record /home/jagadeesh/turtlebot_stop/build/turtlebot_stop/install.log --single-version-externally-managed install_data
+[1.171s] running egg_info
+[1.172s] writing build/turtlebot_stop/turtlebot_stop.egg-info/PKG-INFO
+[1.173s] writing dependency_links to build/turtlebot_stop/turtlebot_stop.egg-info/dependency_links.txt
+[1.174s] writing entry points to build/turtlebot_stop/turtlebot_stop.egg-info/entry_points.txt
+[1.175s] writing requirements to build/turtlebot_stop/turtlebot_stop.egg-info/requires.txt
+[1.176s] writing top-level names to build/turtlebot_stop/turtlebot_stop.egg-info/top_level.txt
+[1.178s] reading manifest file 'build/turtlebot_stop/turtlebot_stop.egg-info/SOURCES.txt'
+[1.181s] writing manifest file 'build/turtlebot_stop/turtlebot_stop.egg-info/SOURCES.txt'
+[1.181s] running build
+[1.181s] running build_py
+[1.183s] copying turtlebot_stop/stop_sign_detection.py -> /home/jagadeesh/turtlebot_stop/build/turtlebot_stop/build/lib/turtlebot_stop
+[1.184s] running install
+[1.185s] running install_lib
+[1.186s] copying /home/jagadeesh/turtlebot_stop/build/turtlebot_stop/build/lib/turtlebot_stop/stop_sign_detection.py -> /home/jagadeesh/turtlebot_stop/install/turtlebot_stop/lib/python3.10/site-packages/turtlebot_stop
+[1.188s] byte-compiling /home/jagadeesh/turtlebot_stop/install/turtlebot_stop/lib/python3.10/site-packages/turtlebot_stop/stop_sign_detection.py to stop_sign_detection.cpython-310.pyc
+[1.189s] running install_data
+[1.190s] running install_egg_info
+[1.192s] removing '/home/jagadeesh/turtlebot_stop/install/turtlebot_stop/lib/python3.10/site-packages/turtlebot_stop-0.0.0-py3.10.egg-info' (and everything under it)
+[1.193s] Copying build/turtlebot_stop/turtlebot_stop.egg-info to /home/jagadeesh/turtlebot_stop/install/turtlebot_stop/lib/python3.10/site-packages/turtlebot_stop-0.0.0-py3.10.egg-info
+[1.195s] running install_scripts
+[1.223s] writing list of installed files to '/home/jagadeesh/turtlebot_stop/build/turtlebot_stop/install.log'
+[1.253s] Invoked command in '/home/jagadeesh/turtlebot_stop' returned '0': PYTHONPATH=/home/jagadeesh/turtlebot_stop/build/turtlebot_stop/prefix_override:/home/jagadeesh/turtlebot_stop/install/turtlebot_stop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/turtlebot_stop build --build-base /home/jagadeesh/turtlebot_stop/build/turtlebot_stop/build install --record /home/jagadeesh/turtlebot_stop/build/turtlebot_stop/install.log --single-version-externally-managed install_data
